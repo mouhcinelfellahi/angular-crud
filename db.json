@@ -1,0 +1,40 @@
+{
+  "commandes": [
+    {
+      "id": 3,
+      "name": "f9as",
+      "poids": "1/2kg",
+      "prix": "190dh"
+    },
+    {
+      "id": 4,
+      "name": "ghriba",
+      "poids": "1/2kg",
+      "prix": "150dh"
+    },
+    {
+      "id": "1",
+      "name": "golden",
+      "poids": "1kg",
+      "prix": "140dh"
+    },
+    {
+      "id": "6",
+      "name": "lava",
+      "poids": "2kg",
+      "prix": "170dh"
+    },
+    {
+      "id": "2",
+      "name": "ka3bLghzal",
+      "poids": "1kg",
+      "prix": "199dh"
+    },
+    {
+      "id": "7",
+      "name": "tango",
+      "poids": "5kg",
+      "prix": "200dh"
+    }
+  ]
+}

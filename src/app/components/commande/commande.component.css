@@ -1,0 +1,32 @@
+.form-group {
+    width: 100%;
+    margin: auto;
+    padding:5px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.table {
+    width: 50%;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.war {
+    margin-left: 10px;
+}
+
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+
+  thead {
+    background-color: gainsboro;
+  }
+
+  .search {
+    width: 100%;
+  }
